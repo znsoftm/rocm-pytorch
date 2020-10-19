@@ -1,6 +1,6 @@
 # pytorch ROCM  precompiled whl 
 
-
+## I'll continue to maintain the latest version of pytorch with the latest ROCM.
 dowload from baidu pan:
 
 链接：https://pan.baidu.com/s/1yLRBttpg7Z3RLDlY5dZz_Q 
